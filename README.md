@@ -1,2 +1,3 @@
-# lojavirtual
- Teste com HTML
+# Loja Virtual
+ 
+ Projeto em HTML do curso DevMedia
